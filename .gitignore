@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+dist/
+
+# Datasets
+datasets/
+Audio_archive/
+*.wav
+*.mp4
+*.csv
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
